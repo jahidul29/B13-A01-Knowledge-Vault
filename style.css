@@ -111,3 +111,47 @@ gap: 10px;
     font-size: 14px;
     height: 40px;
 }
+.cardsec{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 40px;
+}
+.cardicon{
+    background-color: red;
+    border-radius: 100%;
+    padding: 7px;
+}
+.cardsec h1{
+    font-size: 35px;
+}
+.cardsec p{
+    padding-top: 15px;
+    font-size: 13px;
+    padding-bottom: 20px;
+    font-size: 12px;
+}
+.card{
+    display: flex;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 800px;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+.allcard{
+    align-items: center;
+    background-color: white;
+    padding: 30px 20px 5px;
+    box-shadow: 0 -0.5px 15px rgba(207, 206, 206, 0.644);
+}
+
+.allcard h4{
+    padding-top: 10px;
+}
+.allcard p{
+    font-size: 10px;
+}
