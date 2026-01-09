@@ -135,10 +135,11 @@ gap: 10px;
 }
 .card{
     display: flex;
+    justify-content: center;
     padding: 10px;
     margin: 0 auto;
     max-width: 800px;
-    align-items: center;
+    align-items: stretch;
     text-align: center;
     gap: 10px;
 }
@@ -151,7 +152,9 @@ gap: 10px;
 
 .allcard h4{
     padding-top: 10px;
+    font-size: 13px;
 }
 .allcard p{
     font-size: 10px;
+
 }
