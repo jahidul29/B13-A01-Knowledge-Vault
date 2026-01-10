@@ -158,3 +158,56 @@ gap: 10px;
     font-size: 10px;
 
 }
+
+.brain{
+    display: flex;
+    align-items: center;
+    padding: 100px 0;
+    margin: 0 auto;
+    max-width: 1000px;
+    gap: 50px;
+}
+.brainp1{
+    color: #30B868;
+    text-transform: uppercase;
+}
+.brainimg{
+    width: 400px;
+}
+.brain h2{
+    padding: 10px 0;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.brainp{
+    font-size: 13px;
+    max-width: 400px;
+    padding: 10px 0;
+}
+.checktext ul{
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+}
+.ready2think{
+    background-color: rgba(247, 246, 242, 1);
+    border-radius: 10px;
+    width: 1000px;
+    max-width: auto;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 60px;
+}
+.ready2think h2{
+    padding-bottom: 10px;
+}
+.ready2think p{
+    font-size: 10px;
+}
+
+.ready2think button{
+    margin: 10px;
+}
