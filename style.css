@@ -208,6 +208,17 @@ gap: 10px;
     font-size: 10px;
 }
 
-.ready2think button{
+.r2tbutton{
     margin: 10px;
+    display: inline-flex;
+    background-color: #30B868;
+    padding: 5px 10px;
+    align-items: center;
+    border: none;
+    margin: none;
+    border-radius: 5px;
+    color: white;
+}
+.ready2think div button img{
+    padding-left: 10px;
 }
